@@ -1,0 +1,32 @@
+# 🔺 Pyramid of Pain – Threat Intelligence
+<style>
+  h1 {
+    color: #1e3a8a;
+    margin-bottom: 16px;
+  }
+  h3 {
+    color: #111827;
+  }
+  p, ul {
+    line-height: 1.6;
+  }
+  ul {
+    padding-left: 20px;
+  }
+</style>
+
+## 🧠 Overview
+This lab covered the Pyramid of Pain — a framework that ranks threat indicators by how much they impact an attacker’s operations. It showed how defenders can prioritize intelligence at different levels (from hash values to attacker behaviors) to increase the difficulty for adversaries.
+
+## ⚙️ What I Did
+- Analyzed threat indicators based on how hard they are to change
+- Reviewed examples from each level of the pyramid
+- Learned how defenders can use higher-value indicators to slow or stop attacks
+
+## 📚 What I Learned
+- Hash and IP indicators are easy to change, and offer low disruption to attackers
+- Tools and TTPs are harder to replace — targeting them improves long-term defense
+- Effective detection means focusing on behavior, not just surface-level IOCs
+
+## 🎯 Outcome
+✅ Completed the lab and earned the TryHackMe badge. This enhanced my ability to evaluate threat intelligence and prioritize indicators that matter in real-world SOC environments.
